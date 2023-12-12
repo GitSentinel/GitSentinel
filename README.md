@@ -7,8 +7,6 @@
 # 📊 GitHub Stats:
 ![Jacinth-Mahanta's Stats](https://github-readme-stats.vercel.app/api?username=Jacinth-Mahanta&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![Jacinth-Mahanta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jacinth-Mahanta&theme=vue-dark&hide_border=false)
-![Jacinth-Mahanta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacinth-Mahanta&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JacinthMahanta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
