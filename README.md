@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Flutter To-Do App </br>
-🌱 I’m currently learning Dart Frog and Java
+🌱 I’m currently learning Spline, Dart Frog and Java
 </br>
 
 # 🌐 Socials:
