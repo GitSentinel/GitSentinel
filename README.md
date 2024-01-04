@@ -26,10 +26,6 @@
 ![GitSentinel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitSentinel&theme=vue-dark&hide_border=false)
 </br>
 
-# 📊 Holopins:
-[![An image of @jacinth_2114182's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jacinth_2114182)](https://holopin.io/@jacinth_2114182)
-</br>
-
 # 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=GitSentinel&theme=radical&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15")
 </br>
