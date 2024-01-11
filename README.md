@@ -23,7 +23,7 @@
 
 # 📊 GitHub Stats:
 ![GitSentinel's Stats](https://github-readme-stats.vercel.app/api?username=GitSentinel&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![GitSentinel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitSentinel&theme=vue-dark&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GitSentinel&theme=vue-dark)](https://git.io/streak-stats)
 </br>
 
 # 🏆 GitHub Trophies 
