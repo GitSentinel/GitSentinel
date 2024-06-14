@@ -10,7 +10,7 @@
 # 💫 About Me:
 🔭 I’m currently working on **Application Management Website and Book E-Commerce Website** </br>
 🌱 I’m currently learning **Spline 3D Animations, Dart Frog and Java** </br>
-💬 Ask me about **Flutter , UI/UX**
+💬 Ask me about **Flutter, UI/UX, NextJS, Tailwind CSS**
 </br>
 
 # 🌐 Socials:
@@ -18,7 +18,7 @@
 </br>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,dart,go,flutter,html,java,kotlin,gcp,illustrator,photoshop,aftereffects,materialui,xd,figma,github,codepen,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,dart,go,flutter,html,react,nextjs,tailwind,aws,java,kotlin,gcp,illustrator,photoshop,aftereffects,materialui,xd,figma,github,codepen,blender)](https://skillicons.dev)
 </br>
 
 # 📊 GitHub Stats:
