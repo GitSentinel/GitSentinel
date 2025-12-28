@@ -2,15 +2,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jacinth+Mahanta!;" />
 </h1>
-<h3 align="center">A passionate Flutter Developer, Full Stack Developer and UI/UX Designer from India</h3>
+<h3 align="center">AI-focused Software Engineer & UI/UX-driven Developer</h3>
 </br>
 
 
 
 # 💫 About Me:
-🔭 I’m currently working on **Application Management Website and Book E-Commerce Website** </br>
-🌱 I’m currently learning **Spline 3D Animations, Dart Frog and Java** </br>
-💬 Ask me about **Flutter, UI/UX, NextJS, Tailwind CSS**
+🔭 I’m currently working on **an ATS-optimized resume checker and an AI personas platform focused on intelligent prompt-driven workflows** </br>
+🌱 I’m currently learning **AWS Cognito for authentication and identity management, and Spline for interactive 3D experiences** </br>
+💬 Ask me about **AI/ML projects, full-stack development, UI/UX design, and open-source contributions**
 </br>
 
 # 🌐 Socials:
@@ -18,17 +18,15 @@
 </br>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,dart,go,flutter,html,react,nextjs,tailwind,aws,java,kotlin,gcp,illustrator,photoshop,aftereffects,materialui,xd,figma,github,codepen,blender)](https://skillicons.dev)
-</br>
-
-# 📊 GitHub Stats:
-![GitSentinel's Stats](https://github-readme-stats.vercel.app/api?username=GitSentinel&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,python,go,dart,java,kotlin,react,nextjs,nodejs,express,tailwind,materialui,flutter,aws,gcp,docker,linux,git,github,codepen,mongodb,postgres,sqlite,figma,xd,photoshop,illustrator,aftereffects,blender)](https://skillicons.dev)
 </br>
 
 
-# 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=GitSentinel&theme=radical&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15")
-</br>
+## 🏆 GitHub Activity Highlights
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitSentinel&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitSentinel&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GitSentinel&theme=github_dark)
+
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GitSentinel&limit=5&theme=dracula&combine_all_yearly_contributions=true)
