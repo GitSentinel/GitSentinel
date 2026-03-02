@@ -73,7 +73,9 @@ I'm **Jacinth Mahanta** — an AI-focused Software Engineer and UI/UX Designer b
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GitSentinel&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time"/>
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gitsentinel&theme=tokyonight&hide_border=true" height="200"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophies
