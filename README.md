@@ -28,7 +28,7 @@
 
 I'm **Jacinth Mahanta** — an AI-focused Software Engineer and UI/UX Designer based in **Guwahati, India 🇮🇳**. I build intelligent, user-centric products that sit at the intersection of design and engineering.
 
-- 🔭 Currently building an **ATS-optimized resume checker** and an **AI personas platform** powered by intelligent prompt-driven workflows
+[- 🔭 Currently building an **ATS-optimized resume checker** and an **AI personas platform** powered by intelligent prompt-driven workflows]: #
 - 🌱 Currently diving into **AWS Cognito** for auth and **Spline** for 3D interactive experiences
 - 🎓 Mentor at **GSSoC'24** and **SSoC'24** — giving back to the open-source community
 - 💡 Passionate about **AI/ML, full-stack dev, design systems**, and **developer tooling**
