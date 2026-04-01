@@ -46,17 +46,30 @@ I'm **Jacinth Mahanta** — an AI-focused Software Engineer and UI/UX Designer b
 
 ### ⚛️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,materialui" /> 
+  
+  **Also:** `Framer Motion` · `shadcn/ui`
 </p>
 
 ### ☁️ Cloud, DevOps & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,mongodb,postgres,sqlite" />
+
+  **Also:** `REST APIs` · `Prisma` · `Supabase` · `DynamoDB`
 </p>
 
 ### 🎨 Design Tools
 <p>
   <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,aftereffects,blender" />
+
+  **Also:** `Prototyping` · `Design Systems` · `GitHub Actions` · `CI/CD` · `Vercel` · `Postman`
+</p>
+
+### 🧠 AI & Data
+<p> 
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> 
+
+  **Also:** `Machine Learning` · `NLP` · `Neural Networks` · `scikit-learn` · `Data Analysis` · `Jupyter`
 </p>
 
 ---
